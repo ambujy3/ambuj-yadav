@@ -1,2 +1,2 @@
 # ambuj-yadav
-i m a average programmer, 
+I am a average programmer, 
